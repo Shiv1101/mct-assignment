@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ENVELOPE>
+  <BODY>
+    <EXPORTDATA>
+      <REQUESTDATA>
+        <TALLYMESSAGE>
+          <COMPANY NAME="Mehta Fabrications Pvt Ltd">
+
+            <CURRENTPERIODSTART>1-Apr-2025</CURRENTPERIODSTART>
+            <CURRENTPERIODEND>31-Mar-2026</CURRENTPERIODEND>
+
+            <CASHLEDGER>
+              <NAME>Cash Account</NAME>
+              <CLOSINGBALANCE>1420000.00</CLOSINGBALANCE>
+            </CASHLEDGER>
+
+            <SUNDRYDEBTORS>
+
+              <LEDGER NAME="Tata Motors Ltd">
+                <CLOSINGBALANCE>1200000.00</CLOSINGBALANCE>
+              </LEDGER>
+
+              <LEDGER NAME="Bharat Forge Ltd">
+                <CLOSINGBALANCE>740000.00</CLOSINGBALANCE>
+              </LEDGER>
+
+              <LEDGER NAME="Sharma Industries">
+                <CLOSINGBALANCE>840000.00</CLOSINGBALANCE>
+              </LEDGER>
+
+            </SUNDRYDEBTORS>
+
+            <PROFITANDLOSS>
+              <REVENUE>4870000.00</REVENUE>
+              <RAWMATERIAL>2840000.00</RAWMATERIAL>
+              <DIRECTLABOUR>680000.00</DIRECTLABOUR>
+              <OVERHEAD>470000.00</OVERHEAD>
+              <NETPROFIT>380000.00</NETPROFIT>
+            </PROFITANDLOSS>
+
+          </COMPANY>
+        </TALLYMESSAGE>
+      </REQUESTDATA>
+    </EXPORTDATA>
+  </BODY>
+</ENVELOPE>
+
